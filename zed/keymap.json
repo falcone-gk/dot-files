@@ -32,6 +32,7 @@
         "workspace::SendKeystrokes",
         "up up up up up up up up up up"
       ],
+      "ctrl-alt-n": ["workspace::SendKeystrokes", "i # space %% enter"],
 
       "alt-h": "workspace::ActivatePaneLeft",
       "alt-l": "workspace::ActivatePaneRight",
